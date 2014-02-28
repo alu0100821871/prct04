@@ -1,0 +1,7 @@
+#!/usr/bin/python
+a = float(raw_imput('Valor de a: '))
+b = float(raw_imput('Valor de b: '))
+
+x=-b/a
+
+print 'Solucion: ', x
